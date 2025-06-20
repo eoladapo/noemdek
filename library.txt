@@ -1,0 +1,1 @@
+npm i -D @jest/types @types/bcryptjs @types/cors @types/express @types/hpp @types/jsonwebtoken  @types/jest ts-jest ts-node ts-alias tsconfig-paths jest
