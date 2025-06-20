@@ -23,6 +23,6 @@ A RESTful API for managing fuel station and price data with MongoDB, Node.js and
 1. Clone the repository:
 
 ```bash
-git clone
-cd
+git clone https://github.com/eoladapo/noemdek.git
+cd noemdek
 ```
